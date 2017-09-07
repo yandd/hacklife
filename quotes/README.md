@@ -9,6 +9,7 @@
 
 ### 环境要求
 * curl
+* jq
 * trayballoon
 * bash
 
